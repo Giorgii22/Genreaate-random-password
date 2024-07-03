@@ -1,1 +1,1 @@
-# Genreaate-random-password
+# Genreate-random-password
